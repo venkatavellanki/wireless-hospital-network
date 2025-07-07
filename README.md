@@ -44,6 +44,6 @@ It is intended **strictly for educational, academic, and personal learning purpo
 
 All trademarks, tools, and libraries mentioned or used are the property of their respective owners.
 
-© 2023–2025 **Venkat Aditya Vellanki**. All rights reserved.
+© 2023 **Venkat Aditya Vellanki**. All rights reserved.
 
 
