@@ -20,16 +20,6 @@ The project focuses on planning, designing, and proposing a secure and efficient
 
 ---
 
-## 👨‍💻 Team Members
-
-- B. Sai Sri Veer – RA2111003011789  
-- V. Venkat Aditya – RA2111003011799  
-- K. Jayanth – RA2111003011802  
-- A. Venkata Dileep – RA2111003011816  
-- P. Lingeswara Reddy – RA2111003011842
-
----
-
 ## 🏫 Course Details
 
 - **Course:** Computer Communication (CC MINI Project)  
@@ -44,3 +34,4 @@ The project focuses on planning, designing, and proposing a secure and efficient
 ## 📝 License
 
 This project is for academic and educational purposes only.
+
