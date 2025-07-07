@@ -31,7 +31,19 @@ The project focuses on planning, designing, and proposing a secure and efficient
 
 ---
 
-## 📝 License
+---
 
-This project is for academic and educational purposes only.
+## 📄 Disclaimer
+
+This project was created as part of my academic coursework at **SRM Institute of Science and Technology**.
+
+It is intended **strictly for educational, academic, and personal learning purposes**. The design, code, and documentation may reference real-world tools or scenarios but are not production-grade implementations.
+
+> ⚠️ **This project is not licensed for commercial use.**  
+> No part of it may be reused in any commercial or real-world setting without proper review, validation, and permissions.
+
+All trademarks, tools, and libraries mentioned or used are the property of their respective owners.
+
+© 2023–2025 **Venkat Aditya Vellanki**. All rights reserved.
+
 
