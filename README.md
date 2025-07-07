@@ -33,17 +33,16 @@ The project focuses on planning, designing, and proposing a secure and efficient
 
 ---
 
+---
+
 ## 📄 Disclaimer
 
-This project was created as part of my academic coursework at **SRM Institute of Science and Technology**.
+This project was created as part of a **Computer Communication (CC)** mini project in Semester 4. It is a conceptual design for a wireless hospital network architecture.
 
-It is intended **strictly for educational, academic, and personal learning purposes**. The design, code, and documentation may reference real-world tools or scenarios but are not production-grade implementations.
-
-> ⚠️ **This project is not licensed for commercial use.**  
-> No part of it may be reused in any commercial or real-world setting without proper review, validation, and permissions.
-
-All trademarks, tools, and libraries mentioned or used are the property of their respective owners.
+It is intended solely for **academic and research purposes** and is based on theoretical models and assumptions.  
+> ⚠️ This is **not suitable for real-world hospital deployment** without formal review, security validation, and professional implementation.
 
 © 2023 **Venkat Aditya Vellanki**. All rights reserved.
+
 
 
