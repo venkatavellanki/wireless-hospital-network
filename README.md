@@ -15,8 +15,8 @@ The project focuses on planning, designing, and proposing a secure and efficient
 
 ## 📄 Document Included
 
-- `CC MINI PROJECT BATCH 8 - WIRELESS HOSPITAL NETWORK DESIGN.pdf`  
-  (Full project report with team members, network architecture, and proposal)
+- `CC MINI PROJECT - WIRELESS HOSPITAL NETWORK DESIGN.pdf`  
+  (Full project report with network architecture, and proposal)
 
 ---
 
